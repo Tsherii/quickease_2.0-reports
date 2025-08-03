@@ -7,6 +7,6 @@
 - [ ] Reset Password
 
 ## ⚠️ Notes
-- [x] CRUDE
+- [x] CRUD
 - [ ] Note Sharing
 
