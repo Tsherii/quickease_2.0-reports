@@ -1,0 +1,1 @@
+# quickease-reports
