@@ -1,6 +1,6 @@
 --
 
-# Template
+Template for writing test reports.
 
 # Module
 
