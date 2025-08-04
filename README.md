@@ -11,7 +11,8 @@
 [**FLASHCARDS**](./flashcards/aug-04-25.md)
 - ✅ Most core flashcard features are already implemented and functioning as expected.
 - ✅ Flashcard Review (LF004): Cards flip within the required 0.8s interaction time.
-- ⭕ ***Unimplemented Feature***: Flashcard set sharing via “more options” is not yet available.
+- ⭕ ***Unimplemented Feature***: 
+    - Flashcard set sharing via “more options” is not yet available.
 - ✋ ***Suggestion***: 
     - Consider adding keyboard controls (e.g., spacebar to flip, arrow keys to navigate).
 
@@ -27,7 +28,7 @@
     - Add a confirmation button after selecting attachments to ensure user confidence.
 
 [**GENERATIVE-AI**](./generative-ai/aug-04-25.md)
-- ⚠️ Document-based summary generation (AI002)***FAILED*** — Summary note generation from uploaded documents produces blank output.
+- ⚠️ Document-based summary generation (AI002) ***FAILED*** — Summary note generation from uploaded documents produces blank output.
 - ✅ **All other features passed successfully:**
     - Summary from image
     - Flashcard generation from notes and documents
@@ -43,8 +44,8 @@
 - ✅ Most quiz features are already implemented and working smoothly.
 - ✅ Core Functionality (LQ004): Users can answer and review saved quizzes without issues.
 - ⭕ ***Unimplemented Features:***
-    - LQ012: Quiz sharing via "more options" is not yet implemented.
-    - LQ013: Editing quiz visibility/privacy is also pending.
+    - Quiz sharing via "more options" is not yet implemented.
+    - Editing quiz visibility/privacy is also pending.
 - ✋ ***UX Suggestion:*** 
     - Use shaded circles for single-answer questions and visual indicators for answered and unanswered items to improve clarity and user experience.
 
