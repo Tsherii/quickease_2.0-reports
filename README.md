@@ -1,6 +1,7 @@
 ## Consolidated Latest Reports (As of August 12, 2025)
 
 [**FORUM**](./forums/aug-12-25.md)
+- ✅ LF021 (Forum Infinite Scroll): Infinite scroll works smoothly; posts load correctly when scrolling.
 - ✅ Profile Viewing (PR001): Works correctly, 
     - ✋ **Minor UX suggestion:** add a back button when viewing other profiles.
 - ⭕ ***Not yet Implemented:***
