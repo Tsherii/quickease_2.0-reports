@@ -1,5 +1,5 @@
 ## Consolidated Latest Reports (As of August 13, 2025)
-[**SETTINGS**](./forums/aug-12-25.md)
+[**SETTINGS**](./settings/aug-13-25.md)
 - ✅ LS006 (Profile Visibility Setting): Works as intended
     ***✋UX Suggestion:*** Consider removing Pomodoro popup from settings screen to avoid blocking the toggle.
 
