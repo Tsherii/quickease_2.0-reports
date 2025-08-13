@@ -1,5 +1,9 @@
-## Consolidated Latest Reports (As of August 12, 2025)
+## Consolidated Latest Reports (As of August 13, 2025)
+[**SETTINGS**](./forums/aug-12-25.md)
+- ✅ LS006 (Profile Visibility Setting): Works as intended
+    ***✋UX Suggestion:*** Consider removing Pomodoro popup from settings screen to avoid blocking the toggle.
 
+## Consolidated Latest Reports (As of August 12, 2025)
 [**FORUM**](./forums/aug-12-25.md)
 - ✅ LF021 (Forum Infinite Scroll): Infinite scroll works smoothly; posts load correctly when scrolling.
 - ✅ Profile Viewing (PR001): Works correctly, 
@@ -13,7 +17,7 @@
 
 [**GENERATIVE-AI**](./generative-ai/aug-12-25.md)
 - ✋ ***UX suggestion:***
-    - Also a toast notification in saving the generated notes.
+    - A toast notification in saving the generated notes.
 
 [**FLASHCARDS**](./flashcards/aug-07-25.md)
 - ✅ Suggested keyboard controls for LF004 are implemented and working as expected.
