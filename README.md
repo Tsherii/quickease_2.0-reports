@@ -21,14 +21,11 @@
 
 [**FLASHCARDS**](./flashcards/aug-07-25.md)
 - ✅ Suggested keyboard controls for LF004 are implemented and working as expected.
-- ⭕ ***Unimplemented Feature***: 
-    - Flashcard set sharing via “more options” is not yet available.
 
 [**QUIZZES**](./quizzes/aug-4-25.md)
 - ✅ Most quiz features are already implemented and working smoothly.
 - ✅ Core Functionality (LQ004): Users can answer and review saved quizzes without issues.
 - ⭕ ***Unimplemented Features:***
-    - Quiz sharing via "more options" is not yet implemented.
     - Editing quiz visibility/privacy is also pending.
 - ✋ ***UX Suggestion:*** 
     - Use shaded circles for single-answer questions and visual indicators for answered and unanswered items to improve clarity and user experience.
@@ -36,5 +33,3 @@
 [**SUMMARY-NOTES**](./summary-notes/aug-07-25.md)
 - ✅ Functional buttons are working perfectly
 - ⚠️ However, UX flow improvement is recommended — after saving a generated quiz, redirecting users to the Quizzes section would enhance usability.
-- ⭕ ***Unimplemented Feature*** 
-    - Note sharing via “More Options” (LN009) is still not implemented.
