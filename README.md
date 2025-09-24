@@ -1,3 +1,29 @@
+## Consolidated Latest Reports (As of September 24, 2025)
+
+[**ADMIN**](./admin/sept-24-25.md)
+- **✅ Passed**
+    - ADMIN001 (Login): Works correctly; redirects to dashboard.
+    - ADMIN003 (View Account): User details display correctly.
+    - ADMIN004 (Update Account): Updates save and reflect.
+    - ADMIN005 (Delete Account): Accounts removed successfully.
+    - ADMIN006 (Password Reset Email): Reset link sent and received.
+    - ADMIN007 (Verification Email): Verification link sent and functional.
+    - ADMIN009 (Delete Violator): Violator accounts removed successfully.
+    - ADMIN010 (Search Reports): Works correctly.
+- **🚧 Partially Passed**
+    - ADMIN008 (Delete Reported Content): Only reported posts show; reported comments missing.
+- **⭕ Not Yet Implemented**
+    - ADMIN002 (User Search)
+- **✋ Suggestions**
+    - ADMIN001 (Login):
+        - *Manage User Dashboard:* Add sorting for user accounts by creation date.
+        - *Reports Managment Dashboard:* Add sorting/filtering for reports by date, with unresolved reports shown first.
+    - ADMIN004 (Update Account): Notify users when admins change their account details.
+    - ADMIN008 (Delete Reported Content): Add a warning pop-up before permanent deletion.
+    - ADMIN010 (Search Reports): Add a back button to return to the dashboard.
+---
+
+
 ## Consolidated Latest Reports (As of September 20, 2025 & September 22, 2025)
 
 
